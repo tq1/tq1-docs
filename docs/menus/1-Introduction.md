@@ -6,7 +6,7 @@ In order to download these files, you have to access the `Administration > Repor
 
 ### Download using TQ1 admin
 
-![](../../images/download1.png)
+![](https://raw.githubusercontent.com/tq1/tq1-docs/master-reports-files/images/download1.png)
 
 ### Download using Public API
 
