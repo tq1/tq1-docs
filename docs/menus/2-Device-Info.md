@@ -14,7 +14,7 @@ The device info file will be an UTF-8 encoded [CSV](https://tools.ietf.org/html/
   - Type: String
 - push_enable: Can be true or false, tells if the user has the push enabled on the device settings
   - Type: String
-- platform: Android, iOS or Windows Phone
+- platform: *Android*, *iOS* or *Windows Phone*
   - Type: String
 - custom data: Following the previous information, there will be all custom data keys for the application
   - Type: String
