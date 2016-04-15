@@ -10,4 +10,4 @@ In order to download these files, you have to access the `Administration > Repor
 
 ### Download using Public API
 
-Use the methods on our .NET or Node SDKs
+Use the methods on our [.NET](http://tq1-net-sdk.readthedocs.org/en/latest/) or Node SDKs
