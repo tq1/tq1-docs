@@ -41,3 +41,6 @@ TQG can be used along with TQ1, so you can manage everything using TQ1 interface
 [Windows Phone](http://tq1-wp-sdk.readthedocs.io/en/latest/)
 
 [.NET](http://tq1-net-sdk.readthedocs.io/en/latest/)
+
+## Public API documentation
+Public API is used when you want to send pushes directly through our API, without using the admin. You can find detailed usage [here](http://docs.tq1publicapi.apiary.io/#reference/authentication)
