@@ -8,7 +8,9 @@ It consists of 3 main parts: the SDKs, the admin and the server.
 
 In this docs you will find the links to all our documentation.
 
-To find more details on how to use TQ1 admin and FAQ, click [here](http://help.tq1.taqtile.io/) (you will have to login in order to view the content)
+To find more details on how to use TQ1 admin, click [here](http://help.tq1.taqtile.io/)
+
+If you are having troubles and want to view our FAQ, click [here](http://help.tq1.taqtile.io/)
 
 ## TQ1 basic flow
 
