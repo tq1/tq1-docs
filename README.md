@@ -14,7 +14,7 @@ If you are having troubles and want to view our FAQ, click [here](docs/FAQ.md)
 
 ## TQ1 basic flow
 
-The SDKs will send all information needed to the server, while the admin is used to create, manage and view results of  campaigns.
+The Mobile SDKs will send all information needed to the server, while the admin is used to create, manage and view results of  campaigns.
 
 The basic flow can be seen on the following image:
 
@@ -34,7 +34,7 @@ TQG can be used along with TQ1, so you can manage everything using TQ1 interface
 
 ![](./images/tq1-tqg.png)
 
-## SDKs documentation
+## Mobile SDKs documentation
 
 [iOS](http://tq1-ios-sdk.readthedocs.io/en/master/)
 
@@ -42,7 +42,8 @@ TQG can be used along with TQ1, so you can manage everything using TQ1 interface
 
 [Windows Phone](http://tq1-wp-sdk.readthedocs.io/en/latest/)
 
-[.NET](http://tq1-net-sdk.readthedocs.io/en/latest/)
-
 ## Public API documentation
-Public API is used when you want to send pushes directly through our API, without using the admin. You can find detailed usage [here](http://docs.tq1publicapi.apiary.io/#reference/authentication)
+Public API is used when you want to send pushes directly through our API, without using the admin. You can find detailed usage [here](http://docs.tq1publicapi.apiary.io/#reference/authentication).
+You can also use one of our server SDKS:
+[.NET](http://tq1-net-sdk.readthedocs.io/en/latest/)
+Node
