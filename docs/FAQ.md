@@ -4,7 +4,7 @@
 
 ### My push notifications are not arriving to the phone, what is wrong?
 
-This is the most common cause of complaints. If this happens there are somethings you can do if we are not available or if you want to be sure you are doing everything right.
+This is the most common cause of complaints. If this happens there are some things you can do if we are not available or if you want to be sure you are doing everything right.
 
 - Make sure you are connected to the internet
 - Make sure that you have selected the right application:
@@ -47,7 +47,7 @@ Well, the simplest way to test a campaign is to walk through the fences. But we 
 
 ## System and app
 
-### My frontend screen keeps loading and in the end I get an error
+### My frontend screen keeps loading and at the end I get an error
 
 The first thing to do in this case is a logout and login.
 
