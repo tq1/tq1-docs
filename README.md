@@ -46,4 +46,4 @@ TQG can be used along with TQ1 (this is the case for most of the apps), so you c
 Public API is used when you want to send pushes directly through our API, without using the admin. You can find detailed usage [here](http://docs.tq1publicapi.apiary.io/#reference/authentication).
 You can also use one of our server SDKS:
 [.NET](http://tq1-net-sdk.readthedocs.io/en/latest/)
-Node
+[Node](https://www.npmjs.com/package/tq1-public-sdk)
