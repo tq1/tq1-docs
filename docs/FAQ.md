@@ -18,6 +18,8 @@ This is the most common cause of complaints. If this happens there are some thin
 (this guy with zero users targeted will never get the push, for example)
 
 - Have you opened the app after installing? You have to do this in order to TQ1 to register your device
+- Make sure the push notifications are enabled on your device
+- If your app send any custom data, make sure it matches the custom data you are using to filter the users
 
 ### How do I add a custom filter?
 
